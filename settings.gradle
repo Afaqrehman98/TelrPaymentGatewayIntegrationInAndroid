@@ -1,0 +1,3 @@
+include ':telrlibrary-release'
+include ':app'
+rootProject.name = "DemoTelrPaymentGateway"
